@@ -1,0 +1,11 @@
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\bin\Debug\BogdanaKursach.exe.config
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\bin\Debug\BogdanaKursach.exe
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\bin\Debug\BogdanaKursach.pdb
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.csprojAssemblyReference.cache
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.Form1.resources
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.Properties.Resources.resources
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.csproj.GenerateResource.cache
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.exe
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.pdb
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.Form2.resources
+C:\Users\valik\source\repos\BogdanaKursach\BogdanaKursach\obj\Debug\BogdanaKursach.Form3.resources
